@@ -1,0 +1,9 @@
+2020tlf
+/Users/shreyaspatel/Desktop/PreSN/fits_folder
+220.0418623
+42.7776247
+4
+59098.74
+/Users/shreyaspatel/Desktop/PreSN/photpipe_preSN
+/Users/shreyaspatel/Desktop/PreSN/controlLC
+0
